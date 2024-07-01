@@ -5,6 +5,9 @@
   "version": "1.2.0",
   "publisher": "prakash.ranjan",
   "icon": "out/media/chat-gpt-logo.jpeg",
+  "repository": {
+    "private": true
+  },
   "galleryBanner": {
     "color": "#0000FF",
     "theme": "dark"
